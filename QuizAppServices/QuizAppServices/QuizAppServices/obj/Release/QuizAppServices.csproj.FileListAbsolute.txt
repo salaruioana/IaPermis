@@ -1,0 +1,2 @@
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Release\QuizAppServices.csproj.AssemblyReference.cache
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Release\QuizAppServices.csproj.CoreCompileInputs.cache

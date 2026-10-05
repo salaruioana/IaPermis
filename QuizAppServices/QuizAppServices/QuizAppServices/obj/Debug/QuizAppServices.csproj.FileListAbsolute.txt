@@ -1,0 +1,44 @@
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\bin\Debug\QuizAppServices.dll
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\bin\Debug\QuizAppServices.pdb
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.dll
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\bin\Debug\QuizAppData.dll
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.pdb
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\bin\Debug\QuizAppData.pdb
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.AssemblyReference.cache
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.CoreCompileInputs.cache
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\obj\Debug\QuizAppS.DF785847.Up2Date
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.dll
+D:\anul3\ip\proiect\dll\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.pdb
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppServices.dll
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppServices.pdb
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.pdb
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppData.pdb
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.AssemblyReference.cache
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.CoreCompileInputs.cache
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppS.DF785847.Up2Date
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.dll
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.pdb
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.AssemblyReference.cache
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.CoreCompileInputs.cache
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppServices.dll
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppServices.pdb
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.dll
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.pdb
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppS.DF785847.Up2Date
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.dll
+D:\anul3\ip\proiect\Proiect\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.pdb
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppServices.dll
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppServices.pdb
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.dll
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.pdb
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.AssemblyReference.cache
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.CoreCompileInputs.cache
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppS.DF785847.Up2Date
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.dll
+F:\Proiect - Copie\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.pdb
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\Proiect_IP\Proiect_IP\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.dll
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\Proiect_IP\Proiect_IP\QuizAppServices\QuizAppServices\QuizAppServices\bin\Debug\QuizAppCore.pdb
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\Proiect_IP\Proiect_IP\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.AssemblyReference.cache
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\Proiect_IP\Proiect_IP\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.csproj.CoreCompileInputs.cache
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\Proiect_IP\Proiect_IP\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.dll
+D:\Facultate_ASUS\Anul3\Sem2\IP\Proiect\Proiect_IP\Proiect_IP\QuizAppServices\QuizAppServices\QuizAppServices\obj\Debug\QuizAppServices.pdb
