@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../QuizAppCore/QuizAppCore/QuizAppCore.csproj" Id="ff11265b-fa46-490e-9f6a-c791bb27e9e3" />
+  <Project Path="../QuizAppData/QuizAppData/QuizAppData/QuizAppData.csproj" Id="05aaaa7e-e56d-45fe-be25-4dbc8442c2a4" />
+  <Project Path="../QuizAppServices/QuizAppServices/QuizAppServices/QuizAppServices.csproj" Id="d21fbd64-a73b-4ef1-9c19-b7e5324b0be6" />
+  <Project Path="IaPermis.csproj" Id="397c9b5b-5674-410a-99b6-6203a55ce3ab" />
+</Solution>
